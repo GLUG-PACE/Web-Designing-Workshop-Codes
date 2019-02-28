@@ -21,7 +21,7 @@ In this session, we'll be learning how to create a whole website or web page fro
 
 ## Topics to be covered in this session:
 - Creating HTML file or web page.
-- Creating a fresh User Interface using HTML an CSS.
+- Creating a fresh User Interface using HTML and CSS.
 - Learning to create a responsive website using CSS3 grid system.
 - Finishing up building the project by deploying it to GitHub pages.
 
